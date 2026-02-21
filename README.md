@@ -40,6 +40,3 @@ PhoneCaseEmpire is a frontend e-commerce web application that showcases phone ac
 - Practiced responsive design principles
 - Gained experience deploying live projects with GitHub Pages
 
----
-
-## 📂 Project Structure
